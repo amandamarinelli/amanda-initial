@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=25&color=F01789&lines=%3C+Olá,+Hello+,+World!+%F0%9F%91%8B+%2F%3E+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=25&color=F01789&lines=%3C+Hello+,+World!+%F0%9F%91%8B+%2F%3E+)](https://git.io/typing-svg)
 
 Sou de São José/SC, tenho 23 anos, sou casada e formada em engenharia civil, onde atuei por quatro anos com projetos de infra e gerenciamento de processos. Recentemente, decidi por fazer transição de carreira e hoje trabalho como Dev Backend Java. Também estudei e tenho conhecimento dos principais conceitos das tecnologias de front (html, css, react) e banco de dados (mySQL).
 
